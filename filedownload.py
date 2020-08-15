@@ -4,6 +4,8 @@ from fake_useragent import UserAgent
 from colorama import Fore, Back, Style
 from os import path
 
+# filedownload v1.0 by c0deninja
+
 if len(sys.argv) !=3:
     print("Usage: download site filename")
     sys.exit(1)
