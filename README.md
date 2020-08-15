@@ -14,7 +14,5 @@ pip3 install -r requirements.txt
 ## USAGE
 
 ```
-
 python3 filedownload.py https://site.com/file.txt filename
-
 ```
