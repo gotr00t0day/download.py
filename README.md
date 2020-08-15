@@ -6,7 +6,7 @@ Download files from the internet with proxy support.
 ```bash
 
 git clone https://github.com/gotr00t0day/filedownload.git
-cd download
+cd filedownload
 pip3 install -r requirements.txt
 
 ```
