@@ -1,4 +1,4 @@
-# download.py
+# filedownload.py
 Download files from the internet with proxy support.
 
 # INSTALLATION
